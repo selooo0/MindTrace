@@ -55,7 +55,7 @@ assets/
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/MindTrace.git
+git clone https://github.com/selooo0/MindTrace.git
 cd MindTrace
 flutter pub get
 flutter run --dart-define=OPENAI_API_KEY=your_openai_key
