@@ -61,7 +61,7 @@ flutter pub get
 flutter run --dart-define=OPENAI_API_KEY=your_openai_key
 ```
 
-Requires Flutter SDK 3.6+ and an Android or iOS device/emulator. You need your own [OpenAI API key](https://platform.openai.com/api-keys) — it is passed at run time and never stored in the repository.
+Requires Flutter SDK 3.6+, JDK 17 (newer JDKs such as 25 are not supported by this project's Gradle version), and an Android or iOS device/emulator. You need your own [OpenAI API key](https://platform.openai.com/api-keys) — it is passed at run time and never stored in the repository.
 
 ## Team
 
